@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Django RestAPI**
+- 🔭 I’m currently working on **Django REST Framework**
 
 - 🌱 I’m currently learning **Advanced Django, RESTful APIs, front-end tech.**
 
