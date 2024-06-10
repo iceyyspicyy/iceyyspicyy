@@ -7,7 +7,7 @@
     </td>
   </tr>
 </table>
-<img align="right" alt="rickandmorty" width="400px" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
+<img align="right" alt="rickandmorty" width="300px" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iceyyspicyyt&label=Profile%20views&color=0e75b6&style=flat" alt="iceyyspicyyt" /> </p>
 
 
