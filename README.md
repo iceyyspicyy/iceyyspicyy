@@ -17,11 +17,11 @@
 
 - 🌱 I’m currently learning **Advanced Django, RESTful APIs, front-end tech.**
 
-- 🤝 I’m looking for help with **eeking internships and collaborations in Python/Django.**
+- 🤝 I’m looking for help with **Seeking internships and collaborations in Python/Django.**
 
 - 💬 Ask me about : **Python, Python, Django, Web Dev, Software engineering.**
 
-- 📫 How to reach me **[Aryan Maharjan - Linkedin](https://www.linkedin.com/in/aryan-maharjan/)**
+- 📫 Reach me on **[Aryan Maharjan - Linkedin](https://www.linkedin.com/in/aryan-maharjan/)**
 
 - 📄 Access to my [Résumé](https://drive.google.com/file/d/1XADH6TgpkVwr48RgZw3YmkIQf2ulPukw/view?usp=sharing)
 
