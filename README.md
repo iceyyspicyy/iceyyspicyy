@@ -1,7 +1,7 @@
 ### Hi there! 👋 Welcome to my GitHub Profile
 
 I'm Aryan Maharjan, a passionate Python and Django developer. I'm always eager to learn and improve my skills.
-
+![alt text](https://github.com/[iceyyspicyy]/[iceyyspicyy]/blob/[master]/me.jpg?raw=true)
 ### 🚀 About Me:
 
 • 🌱 Learning: Advanced Django, RESTful APIs, front-end tech.  
