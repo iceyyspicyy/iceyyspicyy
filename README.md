@@ -13,3 +13,4 @@ I'm Aryan Maharjan, a passionate Python and Django developer. I'm always eager t
   • 🌐 Frameworks: Django  
   • 🗄️ Databases: SSMS, MySQL, SQLite  
   • 🛠️ Tools: Git, Docker, VSCode  
+[![trophy](https://github-profile-trophy.vercel.app/?username=iceyyspicyy)](https://github.com/ryo-ma/github-profile-trophy)
