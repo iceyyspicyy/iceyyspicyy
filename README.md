@@ -2,7 +2,7 @@
   <tr>
     <td><img src="https://giffiles.alphacoders.com/219/219969.gif" width="200px"></td>
     <td>
-      <h1>IT'S ME</h1>
+      <h1 align='center'>IT'S ME</h1>
       <h3>A passionate Python and Django developer. I'm always eager to learn and improve my skills.</h3>
     </td>
   </tr>
