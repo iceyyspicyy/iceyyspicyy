@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Seeking internships and collaborations in Python/Django.**
 
-- 💬 Ask me about : **Python, Python, Django, Web Dev, Software engineering.**
+- 💬 Ask me about : **Python, Django, Web Dev, Software engineering.**
 
 - 📫 Reach me on **[Aryan Maharjan - Linkedin](https://www.linkedin.com/in/aryan-maharjan/)**
 
