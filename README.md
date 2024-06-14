@@ -1,12 +1,8 @@
-<table>
-  <tr>
-    <td><img src="https://giffiles.alphacoders.com/219/219969.gif" width="200px"></td>
-    <td>
-      <h1 align='center'>IT'S ME</h1>
-      <h3>A passionate Python and Django developer. I'm always eager to learn and improve my skills.</h3>
-    </td>
-  </tr>
-</table>
+
+<h1 align='center'>IT'S ME</h1>
+ <h3>A passionate Python and Django developer. I'm always eager to learn and improve my skills.</h3>
+
+
 <img align="right" alt="rickandmorty" width="320px" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iceyyspicyyt&label=Profile%20views&color=0e75b6&style=flat" alt="iceyyspicyyt" /> </p>
 
