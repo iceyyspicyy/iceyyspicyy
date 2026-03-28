@@ -43,7 +43,7 @@ My job is stress-testing what vendors claim against what the evidence actually s
 
 ```yaml
 current_role:    Security Research Analyst @ SecurityPal
-client:          Humana (Fortune 500 Healthcare)
+client:          #30 (Fortune 500 Healthcare)
 focus:           Third-Party Risk Management (TPRM)
 location:        Kathmandu, Nepal  ·  Remote Worldwide
 status:          ● OPEN TO OPPORTUNITIES
@@ -167,7 +167,7 @@ PCI DSS        █████████████░░░░░░░ ░�
 ```
 2025-Present ── SecurityPal ──────────────────────────────────────────
                Security Research Analyst
-               Supporting Humana (Fortune 500 Healthcare)
+               Supporting Fortune 500 Healthcare Company
                TPRM · HITRUST CSF/CRF · HIPAA · SOC2 · ISO27001
 
 2025-Present ── RWS Group ───────────────────────────────────────────
